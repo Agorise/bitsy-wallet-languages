@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Transaction envoyée!</string>
     <string name="msg__transaction_not_sent">Impossible d\'envoyer la transaction</string>
     <string name="error__you_dont_own_asset">Vous ne possédez pas de %1$s</string>
+    <string name="title__no_internet_error">Pas d\'Internet</string>
+    <string name="msg__no_internet_error">Impossible d\'envoyer des fonds. Veuillez vous connecter à Internet.</string>
+    <string name="title__time_sync_error">Time Sync Error</string>
+    <string name="msg__time_sync_error">Impossible d\'envoyer des fonds. Assurez-vous que «Date et heure automatiques» est activé sur votre appareil.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Tapez le nom du compte BitShares de la personne à qui vous voulez envoyer des fonds. \nPar exemple: robinet agorise</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Retirer</string>
     <string name="title__remove_account">Supprimer le compte</string>
     <string name="msg__remove_account_confirmation">Êtes-vous sûr de vouloir supprimer le compte actuel de cet appareil?</string>
+    <string name="title__earn_more_bts">Gagnez plus de BTS!</string>
+    <string name="msg__earn_more_bts">Demandez à votre employeur d\'accepter les crypto-devises avec l\'application de point de vente PalmPay!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Bugs ou idées?</string>
     <string name="msg__bugs_or_ideas">Télégramme: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Bloc: %1$s</string>

@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">交易已發送！</string>
     <string name="msg__transaction_not_sent">無法發送交易</string>
     <string name="error__you_dont_own_asset">你不擁有任何%1$s</string>
+    <string name="title__no_internet_error">沒有網路</string>
+    <string name="msg__no_internet_error">無法彙款。請連接到互聯網。</string>
+    <string name="title__time_sync_error">時間同步錯誤</string>
+    <string name="msg__time_sync_error">無法彙款。請確保您的設備上啟用了“自動日期和時間”。</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">輸入您要向其匯款的人的Bitshares帳戶名稱。 \n例如：agorise-faucet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">去掉</string>
     <string name="title__remove_account">刪除帳戶</string>
     <string name="msg__remove_account_confirmation">您確定要從此設備中刪除當前帳戶嗎？</string>
+    <string name="title__earn_more_bts">賺更多的防彈少年團！</string>
+    <string name="msg__earn_more_bts">要求您的雇主使用PalmPay銷售點應用接受加密貨幣！</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">錯誤或想法？</string>
     <string name="msg__bugs_or_ideas">電報：https：//t.me/Agorise \nKeybase：https：//keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">阻止：%1$s</string>

@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Tranzacție trimisă!</string>
     <string name="msg__transaction_not_sent">Imposibil de trimis tranzacția</string>
     <string name="error__you_dont_own_asset">Nu dețineți %1$s</string>
+    <string name="title__no_internet_error">Fara Internet</string>
+    <string name="msg__no_internet_error">Nu se pot trimite fonduri. Vă rugăm să vă conectați la Internet.</string>
+    <string name="title__time_sync_error">Eroare de sincronizare a timpului</string>
+    <string name="msg__time_sync_error">Nu se pot trimite fonduri. Vă rugăm să vă asigurați că „Data și ora automate” sunt activate pe dispozitivul dvs.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Introduceți numele contului Bitshares al persoanei către care doriți să trimiteți fonduri. \nPentru exemplu: agorise-robinet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Elimina</string>
     <string name="title__remove_account">Sterge contul</string>
     <string name="msg__remove_account_confirmation">Sigur doriți să eliminați contul curent de pe acest dispozitiv?</string>
+    <string name="title__earn_more_bts">Câștigă mai multe BTS!</string>
+    <string name="msg__earn_more_bts">Cereți angajatorului dvs. să accepte criptomonedele cu aplicația PalmPay point of sale!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Bug-uri sau idei?</string>
     <string name="msg__bugs_or_ideas">Telegrama: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Bloc: %1$s</string>

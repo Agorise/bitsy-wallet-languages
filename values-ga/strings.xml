@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Idirbheart seolta!</string>
     <string name="msg__transaction_not_sent">Ní féidir idirbheart a sheoladh</string>
     <string name="error__you_dont_own_asset">Níl aon %1$s agat</string>
+    <string name="title__no_internet_error">Gan Idirlíon</string>
+    <string name="msg__no_internet_error">Ní féidir cistí a sheoladh. Le do thoil déan ceangal leis an Idirlíon.</string>
+    <string name="title__time_sync_error">Earráid Sync Ama</string>
+    <string name="msg__time_sync_error">Ní féidir cistí a sheoladh. Cinntigh le do thoil go bhfuil “Dáta agus Am Uathoibríoch” cumasaithe ar do ghléas.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Clóscríobh in ainm cuntais Bitshares an duine ar mian leat cistí a sheoladh chuige. \nFor shampla: oscailt-faucet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Bain amach</string>
     <string name="title__remove_account">Bain an Cuntas</string>
     <string name="msg__remove_account_confirmation">An bhfuil tú cinnte gur mian leat an cuntas reatha a bhaint as an ngléas seo?</string>
+    <string name="title__earn_more_bts">Níos mó BTS a thuilleamh!</string>
+    <string name="msg__earn_more_bts">Iarr ar d’Fhostóir glacadh le criptocurrencies le haip díolphointe PalmPay!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Bugs nó Smaointe?</string>
     <string name="msg__bugs_or_ideas">Telegram: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Bloc: %1$s</string>

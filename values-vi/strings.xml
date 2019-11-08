@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Giao dịch đã được gửi!</string>
     <string name="msg__transaction_not_sent">Không thể gửi giao dịch</string>
     <string name="error__you_dont_own_asset">Bạn không sở hữu bất kỳ %1$s nào</string>
+    <string name="title__no_internet_error">Không có mạng</string>
+    <string name="msg__no_internet_error">Không thể gửi tiền. Vui lòng kết nối Internet.</string>
+    <string name="title__time_sync_error">Lỗi đồng bộ hóa thời gian</string>
+    <string name="msg__time_sync_error">Không thể gửi tiền. Vui lòng đảm bảo Ngày tự động và Thời gian tự động được bật trên thiết bị của bạn.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Nhập tên tài khoản Bitshares của người bạn muốn gửi tiền. \n Ví dụ: vòi agorise</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Tẩy</string>
     <string name="title__remove_account">Xoá tài khoản</string>
     <string name="msg__remove_account_confirmation">Bạn có chắc chắn muốn xóa tài khoản hiện tại khỏi thiết bị này?</string>
+    <string name="title__earn_more_bts">Kiếm thêm BTS!</string>
+    <string name="msg__earn_more_bts">Yêu cầu Chủ lao động của bạn chấp nhận tiền điện tử với ứng dụng điểm bán hàng PalmPay!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Lỗi hay ý tưởng?</string>
     <string name="msg__bugs_or_ideas">Telegram: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Chặn: %1$s</string>

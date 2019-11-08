@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Transaktion sendt!</string>
     <string name="msg__transaction_not_sent">Kunne ikke sende transaktion</string>
     <string name="error__you_dont_own_asset">Du ejer ikke nogen %1$s</string>
+    <string name="title__no_internet_error">Intet Internet</string>
+    <string name="msg__no_internet_error">Kan ikke sende midler. Opret forbindelse til internettet.</string>
+    <string name="title__time_sync_error">Tidssynkroniseringsfejl</string>
+    <string name="msg__time_sync_error">Kan ikke sende midler. Sørg for, at "Automatisk dato og tid" er aktiveret på din enhed.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Indtast Bitshares-kontonavnet for den person, du vil sende penge til. \nFor eksempel: agorise-vandhane</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Fjerne</string>
     <string name="title__remove_account">Fjern konto</string>
     <string name="msg__remove_account_confirmation">Er du sikker på, at du vil fjerne den aktuelle konto fra denne enhed?</string>
+    <string name="title__earn_more_bts">Tjen mere BTS!</string>
+    <string name="msg__earn_more_bts">Bed din arbejdsgiver om at acceptere cryptocurrencies med PalmPay salgsapp-appen!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Bugs eller ideer?</string>
     <string name="msg__bugs_or_ideas">Telegram: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Blokering: %1$s</string>

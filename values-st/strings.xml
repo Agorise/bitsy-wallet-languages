@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Khokahano e rometsoe!</string>
     <string name="msg__transaction_not_sent">Ha e khone ho romella khoebo</string>
     <string name="error__you_dont_own_asset">Ha u na thepa ea %1$s</string>
+    <string name="title__no_internet_error">Ha ho na inthanete</string>
+    <string name="msg__no_internet_error">Ha e khone ho romella chelete. Ka kopo ikopanya le Marang-rang.</string>
+    <string name="title__time_sync_error">Phoso ea Nako ea ho lumellanya</string>
+    <string name="msg__time_sync_error">Ha e khone ho romella chelete. Ka kopo netefatsa hore "Letsatsi le Nako e Ikatileng" e lumelloa ho sesebelisoa sa hau.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Tlanya lebitsong la ak\'haonte ea Bitshares ea motho eo u batlang ho mo romella chelete. Mohlala oa mohlala: mohlala oa agorise-faucet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Tlosa</string>
     <string name="title__remove_account">Tlosa Ak\'haonte</string>
     <string name="msg__remove_account_confirmation">Na u na le bonnete ba hore u batla ho tlosa ak\'haonte ea hajoale sesebelisoa see?</string>
+    <string name="title__earn_more_bts">Fumana chelete e eketsehileng ea BTS!</string>
+    <string name="msg__earn_more_bts">Kopa Mohiri oa hau ho amohela li-cryptocurrencies ka ntlha ea PalmPay ea sesebelisoa sa thekiso!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Likoranta kapa mehopolo?</string>
     <string name="msg__bugs_or_ideas">Telegraph: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Thibelo: %1$s</string>

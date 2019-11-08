@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Kusinthanitsa kwatumizidwa!</string>
     <string name="msg__transaction_not_sent">Takanika kutumiza</string>
     <string name="error__you_dont_own_asset">Mulibe %1$s</string>
+    <string name="title__no_internet_error">Palibe intaneti</string>
+    <string name="msg__no_internet_error">Takanika kutumiza ndalama. Chondealumikizani pa intaneti.</string>
+    <string name="title__time_sync_error">Vuto Losiyanitsa Nthawi</string>
+    <string name="msg__time_sync_error">Takanika kutumiza ndalama. Chonde onetsetsani kuti "Tsiku ndi Nthawi" zokha</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Lembani dzina la akaunti ya Bitshares la munthu amene mukufuna kumutumizira ndalama. \nChitsanzo: agorise-faucet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Chotsani</string>
     <string name="title__remove_account">Chotsani Akaunti</string>
     <string name="msg__remove_account_confirmation">Mukutsimikiza kuti mukufuna kuchotsapo akauntiyi pachida ichi?</string>
+    <string name="title__earn_more_bts">Pezani ma BTS ena!</string>
+    <string name="msg__earn_more_bts">Funsani Wolemba Ntchito wanu kuti alandire ma cryptocurrencies ndi mtengo wa PalmPay wogulitsa!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Ngongole kapena Malingaliro?</string>
     <string name="msg__bugs_or_ideas">Telegraph: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Cholepheretsa: %1$s</string>

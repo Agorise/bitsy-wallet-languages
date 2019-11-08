@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Macaamiladi waa la diray!</string>
     <string name="msg__transaction_not_sent">Ma awoodin in la diro macaamil ganacsi</string>
     <string name="error__you_dont_own_asset">Ma lihid wax %1$s</string>
+    <string name="title__no_internet_error">Internet lahayn</string>
+    <string name="msg__no_internet_error">Ma awoodo in la diro lacagaha. Fadlan ku xir khadka internetka.</string>
+    <string name="title__time_sync_error">Waqtiga Iscasilaadda waqtiga</string>
+    <string name="msg__time_sync_error">Ma awoodo in la diro lacagaha. Fadlan hubi in "Automatic Taariikhda iyo Waqtiga" ay ku shaqeyneyso qalabkaaga.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Ku qor magaca koontada \'Bitshares\' ee qofka aad rabto inaad lacag ugu dirto. \n Tusaale ahaan: agorise-faucet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Ka saar</string>
     <string name="title__remove_account">Ka saar Koontada</string>
     <string name="msg__remove_account_confirmation">Ma hubtaa inaad rabto inaad ka qaaddo xisaabta hadda jirta aaladda?</string>
+    <string name="title__earn_more_bts">Soo hel BTS badan!</string>
+    <string name="msg__earn_more_bts">Weydii loo-shaqeeyahaaga inuu aqbalo cryptocurrencies barnaamijka PalmPay dhibicda iibinta!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Dhiqlaha ama fikradaha?</string>
     <string name="msg__bugs_or_ideas">Telegram: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Hakad: %1$s</string>

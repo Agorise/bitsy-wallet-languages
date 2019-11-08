@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">Transaktioun geschéckt!</string>
     <string name="msg__transaction_not_sent">Kann net Transaktioun schécken</string>
     <string name="error__you_dont_own_asset">Dir hutt keen %1$s</string>
+    <string name="title__no_internet_error">Keen Internet</string>
+    <string name="msg__no_internet_error">Kann net Fongen schécken. Connectéiert Iech mam Internet.</string>
+    <string name="title__time_sync_error">Zäit Sync Feeler</string>
+    <string name="msg__time_sync_error">Kann net Fongen schécken. Gitt weg datt "Automatesch Datum an Zäit" op Ärem Apparat ageschalt ass.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Gitt de Bitshares Kontnumm vun der Persoun op déi Dir Fongen schécke wëllt. \n Zum Beispill: agorise-faucet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Ewechzehuelen</string>
     <string name="title__remove_account">Ewechzehuelen Kont</string>
     <string name="msg__remove_account_confirmation">Sidd Dir sécher, dass Dir den aktuelle Kont vun dësem Apparat läsche wëllt?</string>
+    <string name="title__earn_more_bts">Verdéngt méi BTS!</string>
+    <string name="msg__earn_more_bts">Frot Äre Patron cryptocururrency ze akzeptéieren mat der PalmPay Verkafspunkt!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Bugs oder Iddien?</string>
     <string name="msg__bugs_or_ideas">Telegram: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Spär: %1$s</string>

@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">ਲੈਣ-ਦੇਣ ਭੇਜਿਆ!</string>
     <string name="msg__transaction_not_sent">ਲੈਣਦੇਣ ਭੇਜਣ ਵਿੱਚ ਅਸਮਰੱਥ</string>
     <string name="error__you_dont_own_asset">ਤੁਸੀਂ ਕਿਸੇ ਵੀ %1$s ਦੇ ਨਹੀਂ ਹੋ</string>
+    <string name="title__no_internet_error">ਕੋਈ ਇੰਟਰਨੈਟ ਨਹੀਂ</string>
+    <string name="msg__no_internet_error">ਫੰਡ ਭੇਜਣ ਵਿੱਚ ਅਸਮਰੱਥ. ਕਿਰਪਾ ਕਰਕੇ ਇੰਟਰਨੈਟ ਨਾਲ ਜੁੜੋ.</string>
+    <string name="title__time_sync_error">ਟਾਈਮ ਸਿੰਕ ਗਲਤੀ</string>
+    <string name="msg__time_sync_error">ਫੰਡ ਭੇਜਣ ਵਿੱਚ ਅਸਮਰੱਥ. ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰੋ ਕਿ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਤੇ "ਆਟੋਮੈਟਿਕ ਤਾਰੀਖ ਅਤੇ ਸਮਾਂ" ਸਮਰੱਥ ਹੈ.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">ਜਿਸ ਵਿਅਕਤੀ ਨੂੰ ਤੁਸੀਂ ਫੰਡ ਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਸ ਦਾ ਬਿਟਾਰਸ ਅਕਾਉਂਟ ਨਾਮ ਟਾਈਪ ਕਰੋ. \n ਉਦਾਹਰਣ ਲਈ: agorise-faucet</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">ਹਟਾਓ</string>
     <string name="title__remove_account">ਖਾਤਾ ਹਟਾਓ</string>
     <string name="msg__remove_account_confirmation">ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ ਤੇ ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਮੌਜੂਦਾ ਖਾਤਾ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="title__earn_more_bts">ਹੋਰ BTS ਕਮਾਓ!</string>
+    <string name="msg__earn_more_bts">ਆਪਣੇ ਮਾਲਕ ਨੂੰ ਪਾਮਪੇਅ ਪੁਆਇੰਟ ਆਫ ਸੇਲ ਐਪ ਨਾਲ ਕ੍ਰਿਪਟੂ ਕਰੰਸੀ ਸਵੀਕਾਰ ਕਰਨ ਲਈ ਕਹੋ!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">ਬੱਗ ਜਾਂ ਵਿਚਾਰ?</string>
     <string name="msg__bugs_or_ideas">ਟੈਲੀਗ੍ਰਾਮ: https://t.me/Agorise \n ਕੀਬੇਸ: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">ਬਲਾਕ: %1$s</string>

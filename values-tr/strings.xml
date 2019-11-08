@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">İşlem gönderildi!</string>
     <string name="msg__transaction_not_sent">İşlem gönderilemiyor</string>
     <string name="error__you_dont_own_asset">Hiçbir %1$s sahibiniz yok</string>
+    <string name="title__no_internet_error">İnternet yok</string>
+    <string name="msg__no_internet_error">Fon gönderilemiyor. Lütfen internete bağlanın.</string>
+    <string name="title__time_sync_error">Zaman Eşitleme Hatası</string>
+    <string name="msg__time_sync_error">Fon gönderilemiyor. Lütfen cihazınızda “Otomatik Tarih ve Saat” seçeneğinin etkin olduğundan emin olun.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">Para göndermek istediğiniz kişinin Bitshares hesap adını yazın. \nFor örnek: agorise-musluk</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">Kaldır</string>
     <string name="title__remove_account">Hesabı kaldır</string>
     <string name="msg__remove_account_confirmation">Mevcut hesabı bu cihazdan kaldırmak istediğinizden emin misiniz?</string>
+    <string name="title__earn_more_bts">Daha fazla BTS kazan!</string>
+    <string name="msg__earn_more_bts">İşvereninizden, satış uygulamasının PalmPay noktasıyla şifrelemeleri kabul etmesini isteyin!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">Hata mı Fikir mi?</string>
     <string name="msg__bugs_or_ideas">Telgraf: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">Blok: %1$s</string>

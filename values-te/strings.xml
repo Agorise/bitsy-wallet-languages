@@ -102,6 +102,10 @@
     <string name="text__transaction_sent">లావాదేవీ పంపబడింది!</string>
     <string name="msg__transaction_not_sent">లావాదేవీని పంపడం సాధ్యం కాలేదు</string>
     <string name="error__you_dont_own_asset">మీకు ఏ %1$s స్వంతం కాదు</string>
+    <string name="title__no_internet_error">ఇంటర్నెట్ లేదు</string>
+    <string name="msg__no_internet_error">నిధులు పంపడం సాధ్యం కాలేదు. దయచేసి ఇంటర్నెట్‌కు కనెక్ట్ అవ్వండి.</string>
+    <string name="title__time_sync_error">సమయ సమకాలీకరణ లోపం</string>
+    <string name="msg__time_sync_error">నిధులు పంపడం సాధ్యం కాలేదు. దయచేసి మీ పరికరంలో “స్వయంచాలక తేదీ మరియు సమయం” ప్రారంభించబడిందని నిర్ధారించుకోండి.</string>
 
     <!-- Send Transaction info dialog -->
     <string name="msg__to_explanation">మీరు నిధులు పంపాలనుకునే వ్యక్తి యొక్క బిట్‌షేర్స్ ఖాతా పేరును టైప్ చేయండి. \n ఉదాహరణకు: అగోరైస్-పీపాలో నుంచి నీళ్లు బయిటికి రావడమునకు వేసివుండే చిన్న గొట్టము</string>
@@ -147,6 +151,9 @@
     <string name="button__remove">తొలగించు</string>
     <string name="title__remove_account">ఖాతాను తొలగించండి</string>
     <string name="msg__remove_account_confirmation">మీరు ఖచ్చితంగా ఈ పరికరం నుండి ప్రస్తుత ఖాతాను తొలగించాలనుకుంటున్నారా?</string>
+    <string name="title__earn_more_bts">మరింత BTS సంపాదించండి!</string>
+    <string name="msg__earn_more_bts">పామ్‌పే పాయింట్ ఆఫ్ సేల్ అనువర్తనంతో క్రిప్టోకరెన్సీలను అంగీకరించమని మీ యజమానిని అడగండి!</string>
+    <string name="msg__palmpay_link">www.PalmPay.io</string>
     <string name="title__bugs_or_ideas">దోషాలు లేదా ఆలోచనలు?</string>
     <string name="msg__bugs_or_ideas">టెలిగ్రామ్: https://t.me/Agorise \nKeybase: https://keybase.io/team/Agorise</string>
     <string name="title__bitshares_nodes_dialog">బ్లాక్: %1$s</string>
